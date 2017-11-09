@@ -1,6 +1,6 @@
 # markdown-warmup
 Markdown exercise Hamilton Promo 3 Becode
-# This is the greatest markdown example in history
+## This is the greatest markdown example in history
 
 1. Website: http://www.pennyjuice.com/htmlversion/whoispj.htm  , pennyjuice.com
 2. Is it updated frequently?
