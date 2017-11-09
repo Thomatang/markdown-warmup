@@ -8,10 +8,10 @@ This is the greatest markdown example in history
 3. With a Google search :"Worst Websites of All Time"
     found this website in an artcile : https://www.branded3.com/blog/top-10-worst-websites/
 4.  
-   * Makes head hurt,
-   * Colors don't match up, 
-   * Too much information *
-   * No good structure , 
+   * Makes head hurt
+   * Colors don't match up
+   * Too much information 
+   * No good structure  
    * MENU on the bottom, 
    * Text not properly presented
    * No headers,
@@ -31,7 +31,7 @@ This is the greatest markdown example in history
        - Change name of the " Got Jucie?" page: to better indicate that it is an e-commerce page, for example : ORDER NOW
        
   
-7. This website makes money because it is so bad : link to statistics : http://pennyjuice.com.hypestat.com/
+7. This website makes money because it is so bad , 1 dollar a day: link to statistics : http://pennyjuice.com.hypestat.com/
     
     
 
