@@ -10,15 +10,15 @@ Markdown exercise Hamilton Promo 3 Becode
 4.  
    * Makes head hurt
    * Colors don't match up
-   * Too much information 
+   * Too much information
    * No good structure  
-   * MENU on the bottom, 
+   * MENU on the bottom,
    * Text not properly presented
    * No headers,
    * Some pages text is all caps
    * Takes too long to find out what the website is about : WHAT is Pennyjuice?
    * E-commerce unfindable, not properly indexed
-    
+
 5. Not present at all : there is a Facebook group with 3 people ( https://www.facebook.com/groups/286764438489717/)
 
 6.  *Burn, destroy and start anew*
@@ -29,13 +29,13 @@ Markdown exercise Hamilton Promo 3 Becode
        - Menu needs to be more clearly presented and put on top ( for blind people, too)
        - Fonts should be more uniform and readable, for example, do NOT put all CAPS on a page, and use bold, italics and larger fonts only to emphasize
        - Change name of the " Got Jucie?" page: to better indicate that it is an e-commerce page, for example : ORDER NOW
-       
-  
-7. This website makes money because it is so bad , 1 dollar a day: link to statistics : http://pennyjuice.com.hypestat.com/
-    
-Rating exercise :
-- [x] Good
-- [ ] Bad
 
+
+7. This website makes money because it is so bad , 1 dollar a day: link to statistics : http://pennyjuice.com.hypestat.com/
+
+![screenshot from 2017-11-09 16-45-22](https://user-images.githubusercontent.com/33458024/32648237-49e1cd26-c5f5-11e7-8d64-0c0092a70d3d.png)
+Rating exercise :
+- [ ] Good
+- [x] Bad
+- It was difficult!
 # Great work everyone!
-**~~curiouser and curiouser~~**
